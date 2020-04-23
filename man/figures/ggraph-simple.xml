@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="5.0 (Macintosh)" version="12.9.12" type="device">
+  <diagram id="devout">
+    <mxGraphModel dx="0" dy="0" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="720" pageHeight="576" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="drawio-PTjgiouK" value="" style="endArrow=none;html=1;strokeColor=#000000;dashed=0;opacity=100;strokeWidth=1;stroke_width=1.42263779527559;dashPattern=1;" edge="1" parent="1">
+          <mxGeometry width="379.310773843613" height="61.9948218246094" as="geometry" relative="1">
+            <mxPoint x="687.272727272727" y="338.895943449818" as="sourcePoint" />
+            <mxPoint x="308.961953429114" y="399.890765274428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drawio-OyTKKHPy" value="" style="endArrow=none;html=1;strokeColor=#000000;dashed=0;opacity=100;strokeWidth=1;stroke_width=1.42263779527559;dashPattern=1;" edge="1" parent="1">
+          <mxGeometry width="272.813881329503" height="127.413531865066" as="geometry" relative="1">
+            <mxPoint x="687.272727272727" y="338.895943449818" as="sourcePoint" />
+            <mxPoint x="415.458845943224" y="212.482411584752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drawio-RoGtIfjP" value="" style="endArrow=none;html=1;strokeColor=#000000;dashed=0;opacity=100;strokeWidth=1;stroke_width=1.42263779527559;dashPattern=1;" edge="1" parent="1">
+          <mxGeometry width="107.49689251411" height="188.408353689676" as="geometry" relative="1">
+            <mxPoint x="308.961953429114" y="399.890765274428" as="sourcePoint" />
+            <mxPoint x="415.458845943224" y="212.482411584752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drawio-LUtBtRwf" value="" style="endArrow=none;html=1;strokeColor=#000000;dashed=0;opacity=100;strokeWidth=1;stroke_width=1.42263779527559;dashPattern=1;" edge="1" parent="1">
+          <mxGeometry width="277.234680701841" height="150.927416543754" as="geometry" relative="1">
+            <mxPoint x="308.961953429114" y="399.890765274428" as="sourcePoint" />
+            <mxPoint x="32.7272727272727" y="549.818181818182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drawio-NRyfMYPf" value="" style="endArrow=none;html=1;strokeColor=#000000;dashed=0;opacity=100;strokeWidth=1;stroke_width=1.42263779527559;dashPattern=1;" edge="1" parent="1">
+          <mxGeometry width="86.1027207420974" height="187.300593402934" as="geometry" relative="1">
+            <mxPoint x="415.458845943224" y="212.482411584752" as="sourcePoint" />
+            <mxPoint x="330.356125201127" y="26.1818181818181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="drawio-xFnbSrvn" value="&lt;font color='none'&gt;But&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;rounded=0;rotation=0;fontSize=28.4527559055118;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="665.918982765891" y="314.955761363204" width="28.4527559055118" height="28.4527559055118" as="geometry" />
+        </mxCell>
+        <mxCell id="drawio-LaYYNfwR" value="&lt;font color='none'&gt;Use&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;rounded=0;rotation=0;fontSize=28.4527559055118;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="283.662560728919" y="375.950583187813" width="28.4527559055118" height="28.4527559055118" as="geometry" />
+        </mxCell>
+        <mxCell id="drawio-fNMkqJmN" value="&lt;font color='none'&gt;Cool&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;rounded=0;rotation=0;fontSize=28.4527559055118;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="386.199904292834" y="188.542229498138" width="28.4527559055118" height="28.4527559055118" as="geometry" />
+        </mxCell>
+        <mxCell id="drawio-yVywTtMC" value="&lt;font color='none'&gt;Less&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;rounded=0;rotation=0;fontSize=28.4527559055118;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="2.67643044211648" y="525.877999731568" width="28.4527559055118" height="28.4527559055118" as="geometry" />
+        </mxCell>
+        <mxCell id="drawio-mvCBRVGS" value="&lt;font color='none'&gt;Mike&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;rounded=0;rotation=0;fontSize=28.4527559055118;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="300.319176043412" y="2.24163609520395" width="28.4527559055118" height="28.4527559055118" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
