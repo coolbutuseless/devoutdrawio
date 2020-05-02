@@ -30,6 +30,7 @@ You can install from
 ``` r
 # install.packages("remotes")
 remotes::install_github("coolbutuseless/devout")       # devout framework
+remotes::install_github("coolbutuseless/minixml")      # xml creator
 remotes::install_github("coolbutuseless/minidrawio")   # draw.io doc creator
 remotes::install_github("coolbutuseless/devoutdrawio") # this device
 ```
